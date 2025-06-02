@@ -34,7 +34,7 @@ function Hero() {
     <section className="hero">
       <div className="hero-content">
         <h1 className="hero-title">
-          WELCOME, I'M <span className="typewriter-text"></span>
+          HI, I'M <span className="typewriter-text"></span>
         </h1>
         <p className="hero-description">
           Aut commodi neque aut quas neque ea autem aspernatur quo nisi internos
